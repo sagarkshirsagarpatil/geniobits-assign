@@ -1,0 +1,39 @@
+.Sub{
+                    border-radius: 10px;
+                    box-shadow: 5px 5px 5px black;
+                    margin: 100px;
+                    display: flex;
+                 }
+                 .Sub img{
+                    width: 150px;
+                    border-radius: 50%;
+                    margin-top: 10px;
+                 }
+                 .Personal{
+                   display: flex;
+                   align-items: center;
+                   justify-content: space-between;
+                   padding: 50px;
+                   width: 100%;
+                 }
+                 .Detail-2{
+                    border: 1px solid rgb(135, 134, 134);
+                    border-radius:8px ;
+                    padding: 5px;
+                    margin-left: 10px;
+                    
+                 }
+                 .Detail-1{
+                    font-size: 20px;
+                 }
+                 .profile{
+                    text-align: center;
+                    padding: 30px;
+                 }
+                 button{
+                    font-size: 15px;
+                    border-radius: 10px;
+                    padding: 10px;
+                    background-color: rgb(7, 174, 7);
+                    color: aliceblue;
+                 }
